@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, serif;
+      color: #222;
+      background: #fafafa;
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+    header { border-bottom: 2px solid #222; padding-bottom: 16px; margin-bottom: 12px; }
+    header h1 { font-size: 1.8rem; letter-spacing: -0.5px; }
+    header p  { color: #555; font-size: 0.95rem; margin-top: 4px; }
+    nav { margin: 16px 0 40px; }
+    nav a {
+      display: inline-block;
+      margin-right: 20px;
+      text-decoration: none;
+      font-family: sans-serif;
+      font-size: 0.9rem;
+      color: #0070f3;
+      letter-spacing: 0.3px;
+    }
+    nav a:hover { text-decoration: underline; }
+    h1, h2, h3 { font-family: Georgia, serif; margin-top: 2rem; margin-bottom: 0.5rem; }
+    p  { line-height: 1.75; margin-bottom: 1rem; }
+    ul { padding-left: 1.4rem; line-height: 1.75; }
+    a  { color: #0070f3; }
+    footer { margin-top: 60px; font-size: 0.8rem; color: #aaa; font-family: sans-serif; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  </header>
+  {% include nav.html %}
+  <main>
+    {{ content }}
+  </main>
+  <footer>{{ site.title }} · Built with Jekyll &amp; GitHub Pages</footer>
+</body>
+</html>
