@@ -1,3 +1,16 @@
-title: Your Name
-description: Personal portfolio
-theme: minima   # a clean, simple built-in theme
+title: Samuel von der Dunk
+description: Theoretical Biology / Ecology & Evolution
+url: "https://samvonderdunk.github.io"
+
+author:
+  name: Samuel von der Dunk
+  email: sam.vonderdunk@physics.ox.ac.uk
+  bluesky: @derdunk.bsky.social
+  github: samvonderdunk
+  linkedin: Sam von der Dunk
+  orcid: 0000-0002-5741-7558
+
+# Tell GitHub Pages to use no theme (we're building our own)
+theme: null
+plugins:
+  - jekyll-feed
