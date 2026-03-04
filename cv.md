@@ -5,7 +5,7 @@ title: CV
 
 # Curriculum Vitae
 
-[Download PDF version](CV.pdf) *(link to a PDF you upload to the repo)*
+[Full PDF](CV.pdf)
 
 ## Education
 
