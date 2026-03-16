@@ -5,10 +5,4 @@ title: Publications
 
 # Publications
 
-## Journal Articles
-
-- **Your Name**, Co-author. (2024). "Title of paper." *Journal Name*, vol(issue), pp. DOI: [10.xxxx](#)
-
-## Conference Papers
-
-- **Your Name**. (2023). "Title." *Conference Name*. [PDF](#)
+- **Von der Dunk, S. H. A.**, Colizzi, E. & Hogeweg, P. (2017). Evolutionary conflict leads to innovation: symmetry breaking in a spatial model of RNA-like replicators. *Life*, 7(4): 43. [DOI](https://doi.org/10.3390/life7040043)
