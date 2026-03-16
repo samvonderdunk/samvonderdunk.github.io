@@ -8,7 +8,7 @@ title: Projects
 ## Integrating informational and metabolic perspectives on the evolution of cellular and genomic complexity
 *2026 – present*
 
-My PhD work revealed interesting regulatory constraints and opportunities for cell-cycle coordination of host and symbiont during the evolution of complex cells (eukaryotes). In my current role at the [Kost lab](https://www.kostlab.com), I aim to integrate these insights with the metabolic perspectives, which also presents constraints and opportunities for the evolution of complexity. Fundamentally, information processing has an energetic cost (Landauer's principle), and will be beneficial only in certain conditions (e.g. fluctuating environments). In this project, I will construct computational models to investigate under what conditions cells invest in metabolic complexity (e.g. encoding multiple distinct pathways) and/or regulatory complexity (e.g. controlling activity over those distinct pathways).
+My PhD work revealed new regulatory constraints and opportunities for cell-cycle coordination of host and symbiont during the evolution of complex cells (eukaryotes). In my current role at the [Kost lab](https://www.kostlab.com), I aim to integrate these insights with metabolic perspectives, which also presents constraints and opportunities for the evolution of complexity. Information processing has a fundamental energetic cost, and so the adaptive potential of complex regulation is expected to depend on details of the system. One possibility is that populations and ecosystems evolve to distribute metabolic functions between individuals instead of evolving cells with complex metabolism and regulation.
 
 ---
 
