@@ -4,17 +4,21 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>{{ page.title }} — {{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      font-family: Georgia, serif;
+      font-family: 'Lato', sans-serif;
       color: #222;
       background: #fafafa;
       max-width: 780px;
       margin: 0 auto;
       padding: 40px 24px 80px;
     }
-    header { border-bottom: 2px solid #222; padding-bottom: 16px; margin-bottom: 12px; }
+    header { display: flex; align-items: center; gap: 20px; border-bottom: 2px solid #222; padding-bottom: 16px; margin-bottom: 12px; }
+    header img { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; }
+    header div p { color: #555; font-size: 0.95rem; margin-top: 4px; }
     header h1 { font-size: 1.8rem; letter-spacing: -0.5px; }
     header p  { color: #555; font-size: 0.95rem; margin-top: 4px; }
     nav { margin: 16px 0 40px; }
@@ -28,7 +32,7 @@
       letter-spacing: 0.3px;
     }
     nav a:hover { text-decoration: underline; }
-    h1, h2, h3 { font-family: Georgia, serif; margin-top: 2rem; margin-bottom: 0.5rem; }
+    h1, h2, h3 { font-family: 'Lato', sans-serif; }
     p  { line-height: 1.75; margin-bottom: 1rem; }
     ul { padding-left: 1.4rem; line-height: 1.75; }
     a  { color: #0070f3; }
