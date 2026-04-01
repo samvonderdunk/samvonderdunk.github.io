@@ -5,7 +5,7 @@ title: Contact
 
 # Contact
 
-The best way to reach me is by email: [sam.vonderdunk@physics.ox.ac.uk](mailto:sam.vonderdunk@physics.ox.ac.uk)
+The best way to reach me is by email: [sam.vonderdunk@uni.osnabrueck.de](mailto:sam.vonderdunk@uni.osnabrueck.de)
 
 ## Related profiles
 
